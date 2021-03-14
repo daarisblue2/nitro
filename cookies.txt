@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.nitropay.com	TRUE	/	FALSE	1999999999	__cfduid	da8f00cfee4b7ed13b312ee22f7d7a2c21615681447
+.nitropay.com	TRUE	/	FALSE	1999999999	__cf_bm	3c848a27eb5e11dfeca4ace19c4199ea600dc947-1615681447-1800-ARto2+4W1pB9iu4DU6XwSGXFYAbkm6n8jf5QludLYiz2DezxP8Bokz3+5oqbmbpeCI2cg+x6mlBVdROAEr37WR8=
+s.nitropay.com	TRUE	/	FALSE	1999999999	SameSite	None
+.dankmemer.lol	TRUE	/	FALSE	1999999999	__cfduid	d99ff90f23b24529b3c0b46ed42bfef431615681449
+dankmemer.lol	TRUE	/	FALSE	1999999999	SameSite	Lax
+.cloudflare.com	TRUE	/	FALSE	1999999999	__cfduid	d90b107d272adf5a78079d42cf1d30e941615681449
+ajax.cloudflare.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
